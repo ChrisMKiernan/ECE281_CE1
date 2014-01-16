@@ -21,4 +21,4 @@ This truth table proved easier to solve if values for B', D, and E were also cal
 This waveform maches perfectly with the truth table created above, where the F function only outputs "one" when the following values are true: A'BC + AB'C' + AB'C + ABC
 
 ## Documentation
-Received EI from Capt Silva regarding version of GitHub and the functionality of git push
+Received EI from Capt Silva regarding version of Git and the functionality of git push
