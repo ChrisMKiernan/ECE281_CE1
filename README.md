@@ -15,3 +15,6 @@ A | B | C | F | B_Not | D | E
 
 ## Testbench Waveform
 ![alt text](http://i.imgur.com/JDpJ9wN.png "Testbench Waveform")
+
+## Analysis
+This waveform maches perfectly with the truth table created above, where the F function only outputs "one" when the following values are true: A'BC + AB'C' + AB'C + ABC
