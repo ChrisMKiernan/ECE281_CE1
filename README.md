@@ -2,7 +2,7 @@
 
 ## Truth Table
 
-A | B | C | F | B_Not | D | E
+A | B | C | F | B' | D | E
 --- | --- | --- | --- | --- | --- | ---
 0 | 0 | 0 | 0 | 1 | 0 | 0
 0 | 0 | 1 | 0 | 1 | 0 | 0
@@ -12,6 +12,7 @@ A | B | C | F | B_Not | D | E
 1 | 0 | 1 | 1 | 1 | 1 | 0
 1 | 1 | 0 | 0 | 0 | 0 | 0
 1 | 1 | 1 | 1 | 0 | 0 | 1
+This truth table proved easier to solve if values for B', D, and E were also calculated and included in the table
 
 ## Testbench Waveform
 ![alt text](http://i.imgur.com/JDpJ9wN.png "Testbench Waveform")
